@@ -10,14 +10,14 @@ Automated E2E test suite built with Playwright and TypeScript, covering multi-br
 
 ## 📁 Project Structure
 
-\```
+```
 tests/
 └── example.spec.ts   # E2E test scenarios
-\```
+```
 
 ## ▶️ How to Run
 
-\```bash
+```bash
 # Install dependencies
 npm install
 
@@ -29,7 +29,7 @@ npx playwright test --ui
 
 # View HTML report
 npx playwright show-report
-\```
+```
 
 ## 🌐 Browsers
 
@@ -40,5 +40,5 @@ Tests run on:
 
 ## 👤 Author
 
-Victor Dutra — QA Engineer
+Victor Dutra — QA Engineer  
 [GitHub](https://github.com/dutrasc)
